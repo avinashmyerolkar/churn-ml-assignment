@@ -32,7 +32,7 @@ Five classification models are trained on the same dataset, evaluated with six m
 
 https://github.com/avinashmyerolkar/churn-ml-assignment
 
-**Live Streamlit app:** _(link added after deployment)_
+**Live Streamlit app:** https://churn-ml-assignment-5j9ag4of9mxobtynu4pae9.streamlit.app/
 
 ### Repository structure
 
